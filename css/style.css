@@ -21,58 +21,58 @@ body {
   cursor: pointer;
 }
 
-.purple {
-  border-color: #673693;
-  background-color: #9A68C7;
+.cyan {
+  border-color: #009999;
+  background-color: cyan;
 }
 
-.purple:hover {
-  background-color: #8b52bf;
-  box-shadow: 0 0.125em rgba(255, 255, 255, 0.4), inset 0 0.063em rgba(255, 255, 255, 0.4), inset 0 -0.188em #9f6fca;
+.cyan:hover {
+  background-color: #00e0e0;
+  box-shadow: 0 0.125em rgba(255, 255, 255, 0.4), inset 0 0.063em rgba(255, 255, 255, 0.4), inset 0 -0.188em #0affff;
 }
 
-.purple:active {
-  box-shadow: 0 0.063em rgba(255, 255, 255, 0.4), inset 0 0 1.094em #331b48, inset 0 0.063em #673693, inset 0 -0.188em #673693;
+.cyan:active {
+  box-shadow: 0 0.063em rgba(255, 255, 255, 0.4), inset 0 0 1.094em #003333, inset 0 0.063em #009999, inset 0 -0.188em #009999;
 }
 
-.blue {
-  border-color: #1672a3;
-  background-color: #3BA9E4;
+.magenta {
+  border-color: #990099;
+  background-color: magenta;
 }
 
-.blue:hover {
-  background-color: #209de0;
-  box-shadow: 0 0.125em rgba(255, 255, 255, 0.4), inset 0 0.063em rgba(255, 255, 255, 0.4), inset 0 -0.188em #44ade5;
+.magenta:hover {
+  background-color: #e000e0;
+  box-shadow: 0 0.125em rgba(255, 255, 255, 0.4), inset 0 0.063em rgba(255, 255, 255, 0.4), inset 0 -0.188em #ff0aff;
 }
 
-.blue:active {
-  box-shadow: 0 0.063em rgba(255, 255, 255, 0.4), inset 0 0 1.094em #0a3349, inset 0 0.063em #1672a3, inset 0 -0.188em #1672a3;
+.magenta:active {
+  box-shadow: 0 0.063em rgba(255, 255, 255, 0.4), inset 0 0 1.094em #330033, inset 0 0.063em #990099, inset 0 -0.188em #990099;
 }
 
-.green {
-  border-color: #446927;
-  background-color: #75B343;
+.yellow {
+  border-color: #999900;
+  background-color: yellow;
 }
 
-.green:hover {
-  background-color: #669d3b;
-  box-shadow: 0 0.125em rgba(255, 255, 255, 0.4), inset 0 0.063em rgba(255, 255, 255, 0.4), inset 0 -0.188em #7aba46;
+.yellow:hover {
+  background-color: #e0e000;
+  box-shadow: 0 0.125em rgba(255, 255, 255, 0.4), inset 0 0.063em rgba(255, 255, 255, 0.4), inset 0 -0.188em #ffff0a;
 }
 
-.green:active {
-  box-shadow: 0 0.063em rgba(255, 255, 255, 0.4), inset 0 0 1.094em #141f0b, inset 0 0.063em #446927, inset 0 -0.188em #446927;
+.yellow:active {
+  box-shadow: 0 0.063em rgba(255, 255, 255, 0.4), inset 0 0 1.094em #333300, inset 0 0.063em #999900, inset 0 -0.188em #999900;
 }
 
-.orange {
-  border-color: #db2e00;
-  background-color: #FF6A42;
+.black {
+  border-color: black;
+  background-color: #333030;
 }
 
-.orange:hover {
-  background-color: #ff5223;
-  box-shadow: 0 0.125em rgba(255, 255, 255, 0.4), inset 0 0.063em rgba(255, 255, 255, 0.4), inset 0 -0.188em #ff724c;
+.black:hover {
+  background-color: #232121;
+  box-shadow: 0 0.125em rgba(255, 255, 255, 0.4), inset 0 0.063em rgba(255, 255, 255, 0.4), inset 0 -0.188em #383535;
 }
 
-.orange:active {
-  box-shadow: 0 0.063em rgba(255, 255, 255, 0.4), inset 0 0 1.094em #751900, inset 0 0.063em #db2e00, inset 0 -0.188em #db2e00;
+.black:active {
+  box-shadow: 0 0.063em rgba(255, 255, 255, 0.4), inset 0 0 1.094em black, inset 0 0.063em black, inset 0 -0.188em black;
 }

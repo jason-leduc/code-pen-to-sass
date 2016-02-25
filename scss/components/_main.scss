@@ -20,15 +20,15 @@ body {
   cursor:pointer;
 }
 
-.purple {
-	@include btn-theme($purple);
+.cyan {
+	@include btn-theme($cyan);
 }
-.blue {
-	@include btn-theme($blue);
+.magenta {
+	@include btn-theme($magenta);
 }
-.green {
-	@include btn-theme($green);
+.yellow {
+	@include btn-theme($yellow);
 }
-.orange {
-	@include btn-theme($orange);
+.black {
+	@include btn-theme($black);
 }
